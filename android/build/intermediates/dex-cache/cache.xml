@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.android/build-cache/2d7f34ec6cfdba1bb2baf79ad61402d9654aed85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Volumes/PROJETOS/REACT/expression_calculator/android/app/build/intermediates/pre-dexed/debug/classes_9a88d5042cc624f6cce3c7cf94c992b69c92f865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.android/build-cache/2d7f34ec6cfdba1bb2baf79ad61402d9654aed85/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/PROJETOS/REACT/expression_calculator/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_de2921547c86438a01458e769bef07faa534130a.jar" />
+    </item>
+
+</items>

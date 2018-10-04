@@ -1,0 +1,4 @@
+#Sat Sep 01 15:20:01 BRT 2018
+base.0=/Volumes/PROJETOS/REACT/expression_calculator/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

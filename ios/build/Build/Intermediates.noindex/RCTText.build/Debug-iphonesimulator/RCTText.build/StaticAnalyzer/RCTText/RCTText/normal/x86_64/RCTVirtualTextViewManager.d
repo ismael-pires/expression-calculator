@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.m \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/Text/RCTTextTransform.h

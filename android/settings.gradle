@@ -1,0 +1,3 @@
+rootProject.name = 'expression_calculator'
+
+include ':app'

@@ -1,0 +1,4 @@
+#Wed Oct 03 23:51:04 BRT 2018
+base.0=/Volumes/PROJETOS/REACT/expression-calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

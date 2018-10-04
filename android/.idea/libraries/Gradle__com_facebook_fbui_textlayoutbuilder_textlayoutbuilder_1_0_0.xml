@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fbui.textlayoutbuilder:textlayoutbuilder-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b3e8ca660bdba3aed620038718058e9a38d74806/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b3e8ca660bdba3aed620038718058e9a38d74806/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
