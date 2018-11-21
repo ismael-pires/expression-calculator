@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/PROJETOS/REACT/expression_calculator/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml",
+            "outputFile": "/Volumes/PROJETOS/REACT/expression-calculator/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
                     "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8c34fac4a44e99e36358e445330c3c68/res/values-el/values-el.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/PROJETOS/REACT/expression_calculator/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Volumes/PROJETOS/REACT/expression-calculator/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8c34fac4a44e99e36358e445330c3c68/res/values/values.xml",
@@ -40,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Volumes/PROJETOS/REACT/expression_calculator/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "57",
-                        "endOffsets": "69"
-                    },
-                    "to": {
-                        "startLines": "486",
-                        "startColumns": "4",
-                        "startOffsets": "44032",
-                        "endColumns": "57",
-                        "endOffsets": "44085"
-                    }
-                },
-                {
-                    "source": "/Volumes/PROJETOS/REACT/expression_calculator/android/app/src/main/res/values/styles.xml",
+                    "source": "/Volumes/PROJETOS/REACT/expression-calculator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -76,7 +59,24 @@
                     }
                 },
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/15a5771ef66f721db6a6ff121061e533/res/values/values.xml",
+                    "source": "/Volumes/PROJETOS/REACT/expression-calculator/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "57",
+                        "endOffsets": "69"
+                    },
+                    "to": {
+                        "startLines": "486",
+                        "startColumns": "4",
+                        "startOffsets": "44032",
+                        "endColumns": "57",
+                        "endOffsets": "44085"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/389ef8ed12e8b2f7496095cc7d9dcfc8/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,34,37,40,43,46,50,54,57,60,63,66,67,68,75,82,85,88,91,97",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
