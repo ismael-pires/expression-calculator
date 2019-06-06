@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression-calculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Volumes/PROJETOS/REACT/expression-calculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

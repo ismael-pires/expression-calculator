@@ -1,17 +1,17 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

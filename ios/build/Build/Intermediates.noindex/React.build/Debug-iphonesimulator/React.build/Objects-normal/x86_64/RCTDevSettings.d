@@ -1,23 +1,23 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTBridge.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTDefines.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTLog.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTAssert.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTUtils.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

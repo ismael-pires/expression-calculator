@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTDefines.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTDefines.h

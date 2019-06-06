@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/expression_calculator/main.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/ios/expression_calculator/AppDelegate.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/expression_calculator/main.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/ios/expression_calculator/AppDelegate.h

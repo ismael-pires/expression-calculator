@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression-calculator/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
-  /Volumes/PROJETOS/REACT/expression-calculator/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h

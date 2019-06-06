@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTErrorInfo.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTErrorInfo.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTJSStackFrame.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTErrorInfo.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTErrorInfo.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTJSStackFrame.h

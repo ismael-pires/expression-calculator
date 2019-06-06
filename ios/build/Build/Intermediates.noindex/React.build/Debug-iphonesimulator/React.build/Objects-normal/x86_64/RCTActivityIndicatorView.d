@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

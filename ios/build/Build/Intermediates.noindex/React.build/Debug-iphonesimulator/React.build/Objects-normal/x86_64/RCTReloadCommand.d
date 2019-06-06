@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTReloadCommand.m \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTReloadCommand.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTDefines.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTAssert.h \
-  /Volumes/PROJETOS/REACT/expression_calculator/node_modules/react-native/React/Base/RCTKeyCommands.h
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTReloadCommand.m \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTReloadCommand.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ismaelpires/Projects/react_native/expression-calculator/node_modules/react-native/React/Base/RCTKeyCommands.h
